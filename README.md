@@ -1,2 +1,2 @@
 # Django-URL-
-This si a Django project
+This is a Django project
